@@ -106,8 +106,8 @@ span{
   }
   
   #message p {
-    padding: 10px 35px;
-    font-size: 18px;
+    padding: 0px 35px;
+    font-size: 10px;
   }
   .valid {
     color: green;
